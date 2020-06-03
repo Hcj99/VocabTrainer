@@ -1,0 +1,223 @@
+English,Translation,New,Correct
+Dog,Hund,0,1
+Cat,Katze,0,1
+Mouse,Maus,0,1
+House,Haus,0,1
+Teacher,Lehrer,0,1
+Car,Auto,0,1
+World,Welt,0,1
+Hello,Hallo,0,1
+Good bye,Auf Wiedersehen,0,1
+Door,Tür,0,1
+Doorhandle,Türknauf,0,1
+Grass,Gras,0,1
+Weather,Wetter,0,0
+Recommendation,Empfehlung,0,1
+Seagull,Möwe,0,1
+Lion,Löwe,1,2
+Tiger,Tiger,0,0
+Tea,Tee,1,2
+Cloak,Mantel,1,2
+Dagger,Dolch,1,2
+Red,Rot,1,2
+Green,Grün,1,2
+Blue,Blau,1,2
+Brown,Braun,1,2
+Bike,Fahrrad,1,2
+Street,Straße,0,1
+Street sign,Straßenschild,1,2
+Table,Tisch,1,2
+Chair,Stuhl,1,2
+Keyboard,Tastatur,1,2
+Piano,Klavier,1,2
+Screen,Bildschirm,0,0
+TV,Fernsehen,1,2
+Cable car,Seilbahn,1,2
+Hippo,Nilpferd,1,2
+Headphones,Kopfhörer,1,2
+Blackboard,Tafel,1,2
+To eat,essen,1,2
+To sleep,schlafen,1,2
+To walk,gehen,1,2
+To run,rennen,1,2
+Soccer,Fußball,1,2
+Trampoline,Trampolin,1,2
+Feather,Feder,1,2
+To fall,Fallen,1,2
+To bet,Wetten,1,2
+To compete,Wetteifern,1,2
+To repeat,Wiederholen,1,2
+Yes,Ja,1,2
+No,Nein,0,1
+Maybe,Vielleicht,1,2
+Good evening.,Guten Abend.,1,2
+Good morning.,Guten Morgen.,1,2
+Enjoy your meal.,Guten Appetit.,1,2
+Eastern,Ostern,1,2
+New year's eve,Silvester,1,2
+Christmas,Weihnachten,1,2
+Happy birthday!,Alles Gute zum Geburtstag,1,2
+Bless you.,Gesundheit.,1,2
+Congratulations!,Gratuliere!,1,2
+Germany,Deutschland,1,2
+United States of America,Vereinigte Staaten von Amerika,1,2
+California,Kalifornien,0,1
+Bavaria,Bayern,1,2
+River,Fluss,1,2
+Horse,Pferd,1,2
+Bunny,Hase,0,1
+To study,lernen,1,2
+Student,Student,0,1
+Spanish,Spanisch,1,2
+Brave,Tapfer,1,2
+To test,testen,0,0
+Mobile phone,Handy,1,2
+What's your name?,Wie heißt du?,1,2
+How old are you?,Wie alt bist du?,1,2
+Beer,Bier,0,1
+Bear,Bär,0,1
+Wine,Wein,0,1
+Vinyard,Weinberg,1,2
+Chocolate,Schokolade,1,2
+Salad,Salat,1,2
+Water,Wasser,1,2
+Glass,Glas,1,2
+Newspaper,Zeitung,1,2
+To order,bestellen,1,2
+Receipt,Quittung,1,2
+Bill,Rechnung,1,2
+Dentist,Zahnarzt,1,2
+Physician,Arzt,0,1
+Hospital,Krankenhaus,1,2
+Ambulance,Krankenwagen,1,2
+To call,rufen,1,2
+Nice to meet you,Schön Sie kennenzulernen.,1,2
+How are you?,Wie geht's?,1,2
+Ice cream,Eis,1,2
+Ice cream parlor,Eisdiele,1,2
+Supermarket,Supermarkt,0,1
+Mall,Einkaufszentrum,1,2
+Wheelchair,Rollstuhl,1,2
+Disabled,behindert,0,1
+Discount,Rabatt,1,2
+Aircraft,Flugzeug,1,2
+Airplane,Flugzeug,1,2
+To fly,fliegen,1,2
+Flight,Flug,1,2
+Carrier,Fluggesellschaft,1,2
+To buy,kaufen,1,2
+To sell,verkaufen,1,2
+What's going on?,Was passiert hier?,1,2
+Do you speak Englisch?,Sprechen Sie englisch?,1,2
+I'm from the USA.,Ich komme aus den USA.,1,2
+How much is it?,Wie viel kostet das?,1,2
+I'd like to have…,Ich hätte gerne…,1,2
+Love,Liebe,1,2
+To love,lieben,1,2
+Spouse,Ehegatte,0,1
+To marry,heiraten,1,2
+Wedding,Hochzeit,1,2
+To infect,infizieren,1,2
+Desinfectant,Desinfektionsmittel,1,2
+Pandemic,Pandemie,1,2
+I feel sick.,Ich bin krank.,1,2
+Boy,Junge,1,2
+Girl,Mädchen,1,2
+Man,Mann,1,2
+Woman,Frau,0,1
+I don't get it.,Ich verstehe das nicht.,1,2
+Traveler,Reisender,1,2
+Traffic lights,Ampel,1,2
+To Work,arbeiten,1,2
+Employer,Arbeitgeber,1,2
+Employee,Arbeitnehmer,1,2
+To sack,entlassen,1,2
+To hire,einstellen,1,2
+Salary,Gehalt,0,1
+To pray,beten,1,2
+Church,Kirche,1,2
+Catholic,katholisch,1,2
+Protestant,evangelisch,1,2
+Friend,Freund,1,2
+To play,spielen,1,2
+Computer game,Computerspiel,1,2
+Consultant,Berater,1,2
+Tax office,Finanzamt,1,2
+Government,Regierung,1,2
+Country,Land,1,2
+Expensive,teuer,0,1
+Cheap,billig,1,2
+Eye,Auge,1,2
+Eagle,Adler,1,2
+Mouth,Mund,1,2
+Nose,Nase,1,2
+Hand,Handy,1,2
+Toe,Zeh,1,2
+Shoulder,Schulter,1,2
+Knee,Knie,1,2
+Finger,Finger,1,2
+Ear,Ohr,1,2
+Hair,Haare,1,2
+Hips,Hüfte,1,2
+Before,bevor,1,2
+After,nachdem,1,2
+Turn right.,Rechts abbiegen.,1,2
+Turn left.,Links abbiegen.,1,2
+Go straight on.,Fahr gerade aus.,1,2
+Turn around.,Drehe Dich um.,1,2
+Radio,Radio,1,2
+Binoculars,Fernglas,1,2
+Glasses,Brille,1,2
+Book,Buch,1,2
+To read,lesen,1,2
+To hope,hoffen,1,2
+Rain,Regen,1,2
+Sun,Sonne,1,2
+Tree,Baum,1,2
+Monkey,Affe,1,2
+King,König,1,2
+Queen,Königin,1,2
+Minister,Minister,1,2
+Chess,Schach,1,2
+Game,Spiel,1,2
+Paper,Papier,1,2
+Pencil,Stift,1,2
+Pen,Füller,1,2
+Key,Schlüssel,1,2
+Key chain,Schlüsselanhänger,1,2
+Rollercoaster,Achterbahn,1,2
+Pair of scissors,Schere,1,2
+Sister,Schwester,1,2
+Brother,Bruder,1,2
+Mother,Mutter,1,2
+Father,Vater,1,2
+Oh dear!,Oh je!,1,2
+Pardon me!,Entschuldigung!,1,2
+Yellow,Gelb,1,2
+Grey,Grau,1,2
+Black,Schwarz,1,2
+White,Weiß,1,2
+Programmer,Programmierer,1,2
+Hero,Held,0,1
+I need your help.,Ich brauche Ihre Hilfe.,1,2
+Economics,Wirtschaftswissenschaften,1,2
+Company,Unternehmen,0,1
+Head,Kopf,1,2
+Cushion,Kissen,1,2
+Blanket,Decke,1,2
+Maths,Mathe,1,2
+Science,Wissenschaft,1,2
+Son,Sohn,1,2
+Daughter,Tochter,1,2
+Bin,Mülleimer,1,2
+Bucket,Eimer,1,2
+Toilet,Toilette,1,2
+Hotel,Hotel,1,2
+Waiter,Kellner,1,2
+Clock,Uhr,1,2
+Time,Uhrzeit,1,2
+I'm sorry.,Das tut mir leid.,1,2
+Let's check.,Lass mich das überprüfen.,1,2
+Chest,Brust,1,2
+Box,Kiste,1,2
+To talk,reden,1,2
